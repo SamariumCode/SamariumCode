@@ -28,9 +28,6 @@
 
 ## 📊 GitHub Stats
 
-🚀 **Code is poetry, and GitHub is my canvas.**
-
-### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamariumCode&show_icons=true&count_private=true&hide=stars&theme=dark)
 
 ---
