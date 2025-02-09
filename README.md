@@ -37,19 +37,5 @@
 
 ![GitHub Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=SamariumCode&layout=compact&theme=radical&langs_count=5)
 
-![Python Linux](https://img.shields.io/badge/Python%20Developer-Linux%20User-black?logo=python&logoColor=yellow&logo=linux)
-
-![Python Linux](https://img.shields.io/badge/Python%20Developer-Linux%20User-black?logo=python&logoColor=yellow&logo=linux)
-
-![Python Linux](https://img.shields.io/badge/Python%20Pro%20🐍-Linux%20Geek%20🐧-blueviolet?style=flat-square&logo=python&logoColor=FFD43B&logo=linux)
-
-![Python Linux](https://img.shields.io/badge/Python%20Developer%20🐍-Linux%20Power%20User%20🐧-282C34?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=FCC624&logo=linux)
-
-![Python Linux](https://img.shields.io/badge/Python%20Developer%20🐍-Linux%20Master%20🐧-4CAF50?style=for-the-badge&logo=python&logoColor=white&labelColor=333333&logo=linux)
-
-![Python Developer 🐍](https://img.shields.io/badge/Code%20Master-Python%20Enthusiast%20🐍-4CAF50?style=for-the-badge&logo=python&logoColor=white&labelColor=333333)
-
-![Python Linux](https://img.shields.io/badge/Python%20🐍-Linux%20🐧-4CAF50?style=for-the-badge&logo=python&logoColor=white&labelColor=333333&logo=linux)
-
 ![Python Linux](https://img.shields.io/badge/Python%20🐍-Linux%20🐧-1E2A47?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E2A47&logo=linux)
 
