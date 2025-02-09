@@ -33,9 +33,6 @@
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamariumCode&show_icons=true&count_private=true&hide=stars&theme=dark)
 
-### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamariumCode&layout=compact&theme=radical&langs_count=5)
-
 ---
 
 ## 📍 Reach out to me
