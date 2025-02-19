@@ -36,3 +36,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cactuspydon@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirHossein_Donyaei)
+
+
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/SamariumCode/SamariumCode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
