@@ -36,5 +36,8 @@
 
 ## 📍 Reach out to me
 
-- 📧 Email: [cactuspydon@gmail.com](mailto:cactuspydon@gmail.com)
-- 🔹 Telegram: [@AmirHossein_Donyaei](https://t.me/AmirHossein_Donyaei)
+## 📍 Reach out to me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cactuspydon@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirHossein_Donyaei)
+
