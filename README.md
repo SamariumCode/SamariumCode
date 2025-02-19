@@ -34,6 +34,7 @@
 
 ## 📍 Reach out to me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+## 📍 Reach out to me
+
+- 📧 Email: [cactuspydon@gmail.com](mailto:cactuspydon@gmail.com)
+- 🔹 Telegram: [@AmirHossein_Donyaei](https://t.me/AmirHossein_Donyaei)
